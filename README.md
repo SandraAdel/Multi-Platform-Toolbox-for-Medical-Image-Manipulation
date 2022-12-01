@@ -1,2 +1,2 @@
-# Multi-Platform-Toolbox-for-Medical-Image-Manipulation
+# Multi-Purpose-Toolbox-for-Medical-Image-Manipulation
 Under Development
