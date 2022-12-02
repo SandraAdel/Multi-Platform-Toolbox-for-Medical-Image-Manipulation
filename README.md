@@ -16,6 +16,6 @@ Each task folder contains:
 - .py file of GUI interface
 - .py file of main program
 - Sample images for illustration
-- PDF document for program functionalities
+- PDF document for program functionalities, named *Task Statement*
 
 All programs are properly documented with explanation of steps, algorithms and comments.
